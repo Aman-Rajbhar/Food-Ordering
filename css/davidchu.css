@@ -17,8 +17,8 @@ body {
 
 #logo-img {
 	background: url("images/logo_150.png") no-repeat;
-	width: 130px;
-	height: 130px;
+	width: 150px;
+	height: 150px;
 	margin: 10px 15px 10px 0;
 background-position: center;
 }
@@ -143,11 +143,11 @@ vertical-align: middle;
 }
 
 #menu-tile {
-	background: url('images/menu-tile.png')  no-repeat;
+	background: url("images/menu-tile.png")  no-repeat;
 	background-position: center;
 }
 #specials-tile{
-	background: url('images/specials-tile.png') no-repeat;
+	background: url("images/specials-tile.png") no-repeat;
 	background-position: center;
 	
 }

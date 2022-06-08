@@ -16,7 +16,7 @@ body {
 }
 
 #logo-img {
-	background: url("E:/images/logo_150.png") no-repeat;
+	background: url("images/logo_150.png") no-repeat;
 	width: 130px;
 	height: 130px;
 	margin: 10px 15px 10px 0;
@@ -299,7 +299,7 @@ h3.menu-item-title {
  
 @media (min-width: 1200px)  { 
 .jumbotron {
-    	background: url("E:/jumbotron_1200.png") no-repeat;
+    	background: url("images/jumbotron_1200.png") no-repeat;
     	height: 675px; }
 
     		h3.menu-item-title { width: 300px; } }
@@ -309,14 +309,14 @@ h3.menu-item-title {
 
  @media (min-width: 992px) and (max-width: 1199px) {
    #logo-img { /*Header */
-	background: url("E:/images/logo_150.png") no-repeat;
+	background: url("images/logo_150.png") no-repeat;
 	background-position: center;
 	width: 150px;
 	height: 150px;
 	margin: 5px 5px 5px 0;
     }
     .jumbotron {
-    	background: url("E:/jumbotron_992.png") no-repeat;
+    	background: url("jumbotron_992.png") no-repeat;
     	height: 558px;	
     }
      	/* SINGLE MENU CATEGORIES PAGE*/
@@ -330,7 +330,7 @@ h3.menu-item-title {
 @media (min-width: 768px) and (max-width: 991px) { 
 	/*Header */
 	#logo-img { 
-background: url("E:/images/logo_150.png") no-repeat;
+background: url("images/logo_150.png") no-repeat;
  	width: 150px;
 	height: 150px;
 	margin: 5px 5px 5px 0;
@@ -345,7 +345,7 @@ background: url("E:/images/logo_150.png") no-repeat;
     
     /*Homepage */
     .jumbotron {
-    	background: url("E:/jumbotron_768.png") no-repeat;
+    	background: url("jumbotron_768.png") no-repeat;
     	height: 432px;
     }
     /* MENU CATEGORIES PAGE*/
@@ -383,7 +383,7 @@ height: 30px;
 width: 30px;
 }
 #logo-img {
-background: url("E:/images/logo_100.png") no-repeat;
+background: url("images/logo_100.png") no-repeat;
 	width: 100px;
 	height: 100px;
 	margin: 5px 5px 5px 0;
@@ -423,7 +423,7 @@ h3.menu-item-title { width: 280px; }
    /*HEADER*/
 
  #logo-img {
-background: url("E:/images/logo_100.png") no-repeat;
+background: url("images/logo_100.png") no-repeat;
 	width: 80px;
 	height: 80px;
 	margin: 5px 5px 5px 0;

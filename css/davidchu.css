@@ -143,11 +143,11 @@ vertical-align: middle;
 }
 
 #menu-tile {
-	background: url('E:/images/menu-tile.png')  no-repeat;
+	background: url('images/menu-tile.png')  no-repeat;
 	background-position: center;
 }
 #specials-tile{
-	background: url('E:/images/specials-tile.png') no-repeat;
+	background: url('images/specials-tile.png') no-repeat;
 	background-position: center;
 	
 }

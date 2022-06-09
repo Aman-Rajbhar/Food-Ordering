@@ -374,7 +374,7 @@ background: url("images/logo_150.png") no-repeat;
 .collapse {
 	padding-left: 0px;
 }
-.navbar-brand p img { /* star-k */
+.navbar-brand p img { 
 height: 30px;
 width: 30px;
 }
@@ -434,7 +434,7 @@ background: url("images/logo_100.png") no-repeat;
 
   .navbar-brand h1 {  /*Restaurant name */
 	padding-top: 10px;
-	font-size: 2vw;   /* 1vw = 1% of viewport width */
+	font-size: 3vw;   /* 1vw = 1% of viewport width */
 } 
 .navbar-brand P {  /* Koshar cert */
 	font-size: .6em;
@@ -456,8 +456,9 @@ background: url("images/logo_100.png") no-repeat;
 	margin: 0 20px;
 	padding: 10px;
 	border: 2px solid #fff;
-	background-color: #f6b319;
-	color: #951C49; }
+	background-color: #6bc9ee;
+	color: #220466; }
+	
 	
 	#xs-deliver {
 		margin-top: 5px;

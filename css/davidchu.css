@@ -60,11 +60,6 @@ vertical-align: middle;
 	float: right !important;
 }
 
-.navbar-header button.navbar-toggler, .navbar-toggler-icon{
-	border: 1px solid #126161;
-}
-.navbar-header button.navbar-toggler
- { clear: both; margin-top: -30px; }
 
 .collapse {
 	padding-left: 80px;
@@ -303,15 +298,8 @@ h3.menu-item-title {
     	height: 675px; }
 
     h3.menu-item-title { width: 300px; }
-	#menu-tile {
-	background: url("images/menu-tile.png");
-	background-position: center;
+	
 }
-#specials-tile{
-	background: url("images/specials-tile.png");
-	background-position: center;
-}
-
                           /******Large devices  lg  *****/
 
 

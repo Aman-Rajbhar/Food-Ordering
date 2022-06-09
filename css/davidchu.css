@@ -17,8 +17,8 @@ body {
 
 #logo-img {
 	background: url("images/logo_150.png") no-repeat;
-	width: 150px;
-	height: 150px;
+	width: 130px;
+	height: 130px;
 	margin: 10px 15px 10px 0;
 background-position: center;
 }
@@ -319,8 +319,8 @@ h3.menu-item-title {
    #logo-img { /*Header */
 	background: url("images/logo_150.png") no-repeat;
 	background-position: center;
-	width: 150px;
-	height: 150px;
+	width: 130px;
+	height: 130px;
 	margin: 5px 5px 5px 0;
     }
     .jumbotron {
@@ -339,8 +339,8 @@ h3.menu-item-title {
 	/*Header */
 	#logo-img { 
 background: url("images/logo_150.png") no-repeat;
- 	width: 150px;
-	height: 150px;
+ 	width: 130px;
+	height: 130px;
 	margin: 5px 5px 5px 0;
     } 
 	.collapse {

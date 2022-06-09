@@ -143,14 +143,14 @@ vertical-align: middle;
 }
 
 #menu-tile {
-	background: url("menu-tile.png");
+	background: url("images/menu-tile.png");
 	background-position: center;
 }
-#specials-tile{
-	background: url("specials-tile.png");
+/* #specials-tile{
+	background: url("images/specials-tile.png");
 	background-position: center;
 	
-}
+} */
 #menu-tile span, #specials-tile span, #map-tile span{
 	position: absolute;
 	bottom: 0;

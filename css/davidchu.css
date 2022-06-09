@@ -16,7 +16,7 @@ body {
 }
 
 #logo-img {
-	background: url("logo_150.png") no-repeat;
+	background: url("images/logo_150.png") no-repeat;
 	width: 150px;
 	height: 150px;
 	margin: 10px 15px 10px 0;
@@ -324,7 +324,7 @@ h3.menu-item-title {
 	margin: 5px 5px 5px 0;
     }
     .jumbotron {
-    	background: url("jumbotron_992.png") no-repeat;
+    	background: url("images/jumbotron_992.png") no-repeat;
     	height: 558px;	
     }
      	/* SINGLE MENU CATEGORIES PAGE*/
@@ -353,7 +353,7 @@ background: url("images/logo_150.png") no-repeat;
     
     /*Homepage */
     .jumbotron {
-    	background: url("jumbotron_768.png") no-repeat;
+    	background: url("images/jumbotron_768.png") no-repeat;
     	height: 432px;
     }
     /* MENU CATEGORIES PAGE*/

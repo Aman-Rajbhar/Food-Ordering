@@ -143,11 +143,11 @@ vertical-align: middle;
 }
 
 #menu-tile {
-	background: url("images/menu-tile.png")  no-repeat;
+	background: url("images/menu-tile.png");
 	background-position: center;
 }
 #specials-tile{
-	background: url("images/specials-tile.png") no-repeat;
+	background: url("images/specials-tile.png");
 	background-position: center;
 	
 }
@@ -302,7 +302,15 @@ h3.menu-item-title {
     	background: url("images/jumbotron_1200.png") no-repeat;
     	height: 675px; }
 
-    		h3.menu-item-title { width: 300px; } }
+    h3.menu-item-title { width: 300px; }
+	#menu-tile {
+	background: url("images/menu-tile.png");
+	background-position: center;
+}
+#specials-tile{
+	background: url("images/specials-tile.png");
+	background-position: center;
+}
 
                           /******Large devices  lg  *****/
 

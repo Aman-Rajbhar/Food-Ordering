@@ -6,6 +6,9 @@ body {
 	font-family: 'Oxygen', sans-serif;
 	box-sizing: border-box;
 }
+.bi-patch-check-fill{
+	color: royalblue;
+}
 
 /** HEADER **/
 

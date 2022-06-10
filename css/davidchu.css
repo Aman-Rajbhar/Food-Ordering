@@ -61,9 +61,6 @@ vertical-align: middle;
 }
 
 
-.collapse {
-	padding-left: 80px;
-}
 
 .visible-xs{
 	color: #000;
@@ -115,9 +112,10 @@ vertical-align: middle;
 
 .container .jumbotron {
 	margin-top: 30px;
-	margin-bottom: 15px;
+	margin-bottom: 48px;
 	/* #3F0CIF*/
 	border: 1px solid rgb(78, 221, 231); /* #3F0CIF */
+	height: 489px;
 }
 .jumbotron:hover {
 	box-shadow: 0 0 30px whitesmoke; 
@@ -128,7 +126,7 @@ vertical-align: middle;
 
 	height: 250px;
 	width: 100%;
-	margin-bottom: 15px;
+	margin-bottom: 43px;
 	position: relative;
 	border: 1px solid rgb(78, 221, 231);
 	overflow: hidden;
@@ -298,12 +296,14 @@ h3.menu-item-title {
     	height: 675px; }
 
     h3.menu-item-title { width: 300px; }
-	
+	.collapse {
+	padding-left: 345px;
+}
 }
                           /******Large devices  lg  *****/
 
 
- @media (min-width: 992px) and (max-width: 1199px) {
+ @media (min-width: 1024px) and (max-width: 1199px) {
    #logo-img { /*Header */
 	background: url("images/logo_150.png") no-repeat;
 	background-position: center;
@@ -318,13 +318,18 @@ h3.menu-item-title {
      	/* SINGLE MENU CATEGORIES PAGE*/
 
      	h3.menu-item-title { width: 300px; }
-  
+  .collapse {
+	padding-left: 100px;
+}
  } 
 
                 /******       medium devices  md               *****/
 
-@media (min-width: 768px) and (max-width: 991px) { 
+@media (min-width: 768px) and (max-width: 1023px) { 
 	/*Header */
+	.container, .container-md, .container-sm {
+    max-width: 884px;
+}
 	#logo-img { 
 background: url("images/logo_150.png") no-repeat;
  	width: 130px;
@@ -526,4 +531,3 @@ background: url("images/logo_100.png") no-repeat;
     width: 100%;
 }  
 } 
-

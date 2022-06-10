@@ -59,7 +59,9 @@ vertical-align: middle;
 .pull-right {
 	float: right !important;
 }
-
+#xs-deliver {
+	padding-bottom: 30px;
+}
 
 
 .visible-xs{

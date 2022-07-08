@@ -312,8 +312,8 @@ h3.menu-item-title {
    #logo-img { /*Header */
 	background: url("images/logo_150.png") no-repeat;
 	background-position: center;
-	width: 130px;
-	height: 130px;
+	width: 150px;
+	height: 150px;
 	margin: 5px 5px 5px 0;
     }
     .jumbotron {
@@ -324,7 +324,7 @@ h3.menu-item-title {
 
      	h3.menu-item-title { width: 300px; }
   .collapse {
-	padding-left: 147px;
+	padding-left: 150px;
 }
  } 
 
